@@ -1,2 +1,6 @@
 # local Claude Code config — not needed on the website
 .claude/
+
+# Python build artifacts
+__pycache__/
+*.pyc
